@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 555_Badge)(type KiCad)(uri "$(KIPRJMOD)/555_Badge.pretty")(options "")(descr ""))
+  (lib (name Test)(type KiCad)(uri C:/Users/omar5/Desktop/KiCAD/Libraries/Test)(options "")(descr ""))
+)
